@@ -1,0 +1,33 @@
+header{
+    display: flex;
+    justify-content: center;
+    background: #eee8aa;
+    padding: 20px 0;
+  }
+  
+  a{
+    color: green;
+    margin: 0 20px
+  }
+  
+  main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-weight: 900;
+    margin-top: 20px;
+    
+  }
+  
+  h1 {
+    font-size: 20px;
+    font-weight: 900;
+    margin-top: 20px;
+  }
+  
+  h2 {
+    font-size: 10px;
+    font-weight: 700;
+    margin-top: 20px;
+  }
